@@ -13,6 +13,7 @@ Skills:  HTML / CSS/ JS/ NODEJS/
 - 👯 I’m looking to collaborate on AI projects 
 - 🤔 I’m looking for help with AI 
 - 💬 Ask me about chatbots 
+- 📫 How to reach me: twitter.com/@samthetutor 
 
 
 
