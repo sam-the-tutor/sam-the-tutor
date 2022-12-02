@@ -8,7 +8,7 @@ You can reach me out on my email at smartskills02@gmail.com
 
 #Skills and experiences
 
-HTML / CSS/ JS/ NODEJS/
+HTML / CSS/ JS/ NODEJS/ EXPRESS js
 
 #Some projects i have worked on
 
