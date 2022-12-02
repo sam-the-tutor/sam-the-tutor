@@ -1,7 +1,19 @@
-- 👋 Hi, 
-- I'm Samuel, from Uganda. I am a back end developer with nodejs.
-- I'm very passionate about web3.
-- Currently, I am learning AI,Web3 development and the business side of things.
-- You can reach me out on twitter at twitter.com/@samthetutor and my email at smartskills02@gmail.com
+### Hi there 👋, my name is Samuel
+#### Back end developer,web3 and AI
+![Back end developer,web3 and AI](https://www.istockphoto.com/vector/back-end-development-web-banner-concept-gm1167600247-322063713)
 
-[![sam-the-tutor's GitHub stats](https://github-readme-stats.vercel.app/api?username=sam-the-tutor)](https://github.com/sam-the-tutor/github-readme-stats)
+I'm very passionate about web3.
+Currently, I am learning AI,Web3 development and the business side of things.
+You can reach me out on twitter at twitter.com/@samthetutor and my email at smartskills02@gmail.com
+
+Skills:  HTML / CSS/ JS/ NODEJS/
+
+- 🔭 I’m currently working on whatsapp chatbots, as well as some AI models 
+- 🌱 I’m currently learning web3 developement and AI 
+- 👯 I’m looking to collaborate on AI projects 
+- 🤔 I’m looking for help with AI 
+- 💬 Ask me about chatbots 
+
+
+
+
