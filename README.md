@@ -18,7 +18,7 @@ HTML / CSS/ JS/ NODEJS/
 - 👯 I’m looking to collaborate on AI projects 
 - 🤔 I’m looking for help with AI 
 - 💬 Ask me about chatbots 
-- 📫 How to reach me: twitter.com/@samthetutor 
+- 📫 How to reach me: twitter.com/@samthetutor2 
 
 
 [![sam-the-tutor's GitHub stats](https://github-readme-stats.vercel.app/api?username=sam-the-tutor)](https://github.com/sam-the-tutor/github-readme-stats)
