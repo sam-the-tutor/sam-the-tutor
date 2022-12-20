@@ -13,7 +13,7 @@ HTML / CSS/ JS/ NODEJS/ EXPRESS js
 #Some projects i have worked on
 
 
-- 🔭 I’m currently working on whatsapp chatbots, as well as some AI models 
+- 🔭 I’m currently working on whatsapp chatbots,web3 projects as well as some AI models 
 - 🌱 I’m currently learning web3 developement and AI 
 - 👯 I’m looking to collaborate on AI projects 
 - 🤔 I’m looking for help with AI 
