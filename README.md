@@ -11,7 +11,7 @@ You can reach me out on my email at smartskills02@gmail.com
 ---
 ---
 ---
-ALL
+
 
 #Some projects i have worked on
 
