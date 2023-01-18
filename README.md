@@ -24,8 +24,6 @@ You can reach me out on my email at smartskills02@gmail.com
 - 📫 How to reach me: twitter.com/@samthetutor2 
 
 
-![sAM-THE-TUTOR's GitHub stats](https://github-readme-stats.vercel.app/api?username=sam-the-tutor&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sam-the-tutor)](https://github.com/anuraghazra/github-readme-stats)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=sam-the-tutor&show_icons=true&theme=radical" width ="47%"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sam-the-tutor&layout=compact" width ="47%"/>
 
