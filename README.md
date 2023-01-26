@@ -27,6 +27,7 @@ You can reach me out on my email at smartskills02@gmail.com
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=sam-the-tutor&show_icons=true&theme=radical" width ="47%"/>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sam-the-tutor&layout=compact" width ="47%"/>
 
+
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -39,4 +40,5 @@ You can reach me out on my email at smartskills02@gmail.com
 ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
 ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=sam-the-tutor)](https://git.io/streak-stats)
 
