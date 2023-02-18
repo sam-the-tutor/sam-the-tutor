@@ -19,7 +19,6 @@ You can reach me out on my email at smartskillsweb3@gmail.com
 - 👯 I’m looking to collaborate on AI projects 
 - 🤔 I’m looking for help with AI 
 - 💬 Ask me about chatbots 
-- 📫 How to reach me: twitter.com/@samthetutor2 
 
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=sam-the-tutor&show_icons=true&theme=radical" width ="47%"/>
