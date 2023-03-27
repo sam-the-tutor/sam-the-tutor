@@ -2,7 +2,7 @@
 #### Back end developer,web3 and AI
 
 Currently, I am learning AI,Web3 development and the business side of things.
-You can reach me out on my email at smartskillsweb3@gmail.com
+You can reach me out on: smartskillsweb3@gmail.com
 
 #Skills and experiences
 
