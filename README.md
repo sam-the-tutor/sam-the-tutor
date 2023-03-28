@@ -1,36 +1,26 @@
 ### Hi there 👋, my name is Samuel
-#### Back end developer,web3 and AI
+#### Back-end and web3 developer
 
-Currently, I am learning AI,Web3 development and the business side of things.
+I am currently learning AI,Web3 development and the business side of things.
 You can reach me out on: smartskillsweb3@gmail.com
 
-#Skills and experiences
 
----
----
----
+### Some projects i have worked on
+Check Repos
 
+## Certificates
+[Bitcoin for everybody](https://learn.saylor.org/admin/tool/certificate/index.php?code=5775547676SA)
 
-#Some projects i have worked on
-
-
-- 🔭 I’m currently working on whatsapp chatbots,web3 projects as well as some AI models 
-- 🌱 I’m currently learning web3 developement and AI 
-- 👯 I’m looking to collaborate on AI projects 
-- 🤔 I’m looking for help with AI 
-- 💬 Ask me about chatbots 
+[Bitcoin for Developers I](https://learn.saylor.org/admin/tool/certificate/index.php?code=0823442453SA)
 
 
+## Stats
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=sam-the-tutor&show_icons=true&theme=radical" width ="47%"/>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sam-the-tutor&layout=compact" width ="47%"/>
 
-
+## Tech Stack
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
-![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
