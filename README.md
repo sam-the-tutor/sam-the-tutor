@@ -1,11 +1,14 @@
 ### Hi there 👋, my name is Samuel
-#### Back-end and web3 developer
+#### A Full Stack web3 developer
 
-I am currently learning AI,Web3 development and the business side of things.
-You can reach me out on: smartskillsweb3@gmail.com
+## Tech Stack
+
+* MERN
+* Solidity
+* Motoko
 
 
-### Some projects i have worked on
+### Some projects I have worked on
 Check Repos
 
 ## Certificates
